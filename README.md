@@ -2,7 +2,7 @@
 This is a repo to demonstrate the power of GitHub actions.
 We have implemented a basic Python calculator ([calculator.py](calculator.py)) incorrectly.
 All functions in that file are broken.
-There are also some syntax issues to fix . . .
+There are also some syntax issues to fix ...
 
 **Steps:**
 1. Fork the repo (if you don't know how to fork a repo, see this [page](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)).
